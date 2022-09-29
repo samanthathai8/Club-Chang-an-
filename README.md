@@ -22,3 +22,4 @@ Though I am very biased towards the Dodgers, and would recommend everyone, even 
 
 Want to learn more about MLB ballparks to plan your next visit? Visit this website to see all the features of every MLB ballpark! 
 [bucket list!](https://baseballbucketlist.com/ballpark-guides/)
+
