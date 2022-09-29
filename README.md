@@ -10,3 +10,7 @@ Hi, I'm Samantha Thai, and as you can tell from the making of this website, I am
 
 ### My Favorite Ballpark
 Even though I am a Dodger fan, I can confidently say the best ballpark, and my favorite one is Petco Park in San Diego. I've visited Petco Park (home of the San Diego Padres) a couple of times, and I really like the the layout of the stadium, and the fact that they have family friendly activities within the ballpark as well. At Petco Park, there is a small baseball field (WAY smaller than the actual major league field) behind center field, where kids can hit plastic balls witg plastic bats, simulating a baseball game. Adjacent to that activity is an actual park, with hills of grass and trees. When I went to Petco Park with my family friends when we went on a trip to San Diego, we spent most of our time hanging around that area. But, my favorite feature at Petco Park is the food. The food is SUPERB, in comparison to the other stadiums I've been to. They have such a wide range of options, and not just hotdogs and nachos. They even have a marketplace and a Din Tai Fung (an amazing Chinese restaurant. 
+
+### Honarable Mention- Chase Field!
+Chase Field, the stadium of the Arizona Diamondbacks, was a ballpark I really enjoyed visiting. This is mainly because of their dome, and how they close off the stadium to have a roof, due to the warm Arizona heat. My brother also got handed a baseball from David Peralta!
+![image](https://github.com/samanthathai8/VisitingtheBallparks/blob/main/11_Original.jpg) 
