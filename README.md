@@ -1,5 +1,4 @@
-
-# ***Visiting the Ballparks***
+## ***Visiting the Ballparks***
 Come along with me, as we explore tmy favorite ballparks and baseball fields I've visted. I am so excited to be able to share with you my favorite experiences and fianlly, I'll let you in on my little secret- Which baseball stadium is the best?
 
 ![image](https://github.com/samanthathai8/VisitingtheBallparks/blob/main/11_Original.jpg)
