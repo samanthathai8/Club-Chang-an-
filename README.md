@@ -20,6 +20,6 @@ Chase Field, the stadium of the Arizona Diamondbacks, was a ballpark I really en
 ### The Best Baseball Stadium
 Though I am very biased towards the Dodgers, and would recommend everyone, even non-baseball fans, to visit at least once, I would definitely say Petco Park is the best for an experience. The food is "out of the park" and even non-baseball fans can enjoy all the amendities that the stadium offers, like its picnic-like park, baseball activities for younger children, and the live music. And, who can forget about the downtown San Diego view right next to it? I definitely would visit Petco Park again!
 
-Want to learn more about MLB ballparks to plan your next visit? Visit this website to see all the features of every ballpark! -->
-[https://baseballbucketlist.com/ballpark-guides/]
+Want to learn more about MLB ballparks to plan your next visit? Visit this website to see all the features of every ballpark! 
+![ln=ink](https://baseballbucketlist.com/ballpark-guides/)
 (https://baseballbucketlist.com/ballpark-guides/)
