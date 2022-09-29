@@ -1,5 +1,5 @@
 
-<h1 style="color:blue">Visiting the Ballparks</h1>
+# ***Visiting the Ballparks***
 Come along with me, as we explore tmy favorite ballparks and baseball fields I've visted. I am so excited to be able to share with you my favorite experiences and fianlly, I'll let you in on my little secret- Which baseball stadium is the best?
 
 ![image](https://github.com/samanthathai8/VisitingtheBallparks/blob/main/11_Original.jpg)
@@ -9,4 +9,4 @@ Come along with me, as we explore tmy favorite ballparks and baseball fields I'v
 Hi, I'm Samantha Thai, and as you can tell from the making of this website, I am a very passionate baseball watcher. Well, mainly just the Dodgers, but overall, I love the game. I grew up watching my brother's baseball games, and to this day, I am his biggest fan on the bleachers. A family hobby of my mine is to visit baseball fields and go to baseball games! We've been to stadium in Arizona and San Diego, and of course, Los Angeles and Anaheim, and we hope to visit more some day. 
 
 ### My Favorite Ballpark
-Even though I am a Dodger fan, I can confidently say the best ballpark, and my favorite one is Petco Park in San Diego. I've visited Petco Park (home of the San Diego Padres) a couple of times, and I really like the 
+Even though I am a Dodger fan, I can confidently say the best ballpark, and my favorite one is Petco Park in San Diego. I've visited Petco Park (home of the San Diego Padres) a couple of times, and I really like the the layout of the stadium, and the fact that they have family friendly activities within the ballpark as well. At Petco Park, there is a small baseball field (WAY smaller than the actual major league field) behind center field, where kids can hit plastic balls witg plastic bats, simulating a baseball game. Adjacent to that activity is an actual park, with hills of grass and trees. When I went to Petco Park with my family friends when we went on a trip to San Diego, we spent most of our time hanging around that area. But, my favorite feature at Petco Park is the food. The food is SUPERB, in comparison to the other stadiums I've been to. They have such a wide range of options, and not just hotdogs and nachos. They even have a marketplace and a Din Tai Fung (an amazing Chinese restaurant. 
