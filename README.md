@@ -1,7 +1,7 @@
 # ***Visiting the Ballparks***
 Come along with me, as we explore my favorite ballparks and baseball fields I've visted. I am so excited to be able to share with you my favorite experiences and fianlly, I'll let you in on my little secret- Which baseball stadium is the best?
 
-![image](11_Original.JPG)
+![image](IMG_3841.JPG)
 ###### This is a photo I took on my film camera at Dodger Stadium in the summer of 2021. I think it shows a great depiction of how nice the ballpark is.
 
 ### Why Baseball?
