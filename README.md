@@ -14,7 +14,7 @@ Even though I am a Dodger fan, I can confidently say the best ballpark, and my f
 Chase Field, the stadium of the Arizona Diamondbacks, was a ballpark I really enjoyed visiting. This is mainly because of their dome, and how they close off the stadium to have a roof, due to the warm Arizona heat. My brother also got handed a baseball from David Peralta! My family and I had a very fun time sitting in front of the outfiled seats, right behind the left-fielder! 
 
 ![image](IMG_0538.JPG) 
-![image](https://github.com/samanthathai8/VisitingtheBallparks/blob/main/IMG_0525.jpg)  
+![image](IMG_0525.JPG)  
 ###### Here are two photos from our trip to Chase Field. As you can see, I am holding a baseball that David Peralta gave to us, but also the dome, something that very few major league baseball fields have.
 
 ### The Best Baseball Stadium
